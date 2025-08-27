@@ -1,0 +1,15 @@
+data/
+  energy_data.csv
+  energy_notes.md
+statements/
+  Energy_Efficiency_Statement_OR1ON_ORION.md
+  PoCC_anchor.md
+scripts/
+  verify_energy.py
+mirrors/
+  IPFS.md
+  onchain_memos.md
+.github/workflows/
+  verify.yml
+docs/
+  index.html
